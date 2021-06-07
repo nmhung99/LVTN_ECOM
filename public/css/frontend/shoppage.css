@@ -1,0 +1,14 @@
+.page-item.active span{
+	color: white !important;
+}
+.page-item.active .page-link {
+
+  background-color: red !important;
+  border-color: red !important;
+}
+.page-item .page-link {
+	color: red !important;
+}
+.pagination{
+  justify-content: center;
+}

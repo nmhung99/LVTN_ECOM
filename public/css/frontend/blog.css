@@ -1,0 +1,44 @@
+.blog-details-content img{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.blog-details-content .details_blog p{
+	line-height: 200px;
+	font-size: 20px;
+}
+.page-item.active span{
+	color: white !important;
+}
+.page-item.active .page-link {
+
+  background-color: red !important;
+  border-color: red !important;
+}
+.page-item .page-link {
+	color: red !important;
+}
+.pagination{
+  justify-content: center;
+}
+
+/*.blogmain{
+	position: relative;
+}
+.blogmain .sidebar{
+	position: absolute;
+	right: 100px;
+}
+.blogmain .maininfo{
+	position: absolute;
+	left: 0;
+}
+.wrapper, .header, .main, .footer-area {
+    padding: 10px;
+    position: relative;
+    bottom: 
+}*/
